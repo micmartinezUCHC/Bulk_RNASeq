@@ -16,5 +16,3 @@ generates one cohesive counts matrix as well as a library size violin plot.
 
 For further downstream analysis for single-factor experimental designs, please see: https://github.com/micmartinezUCHC/Differential-Expression-Pipeline for an automated differential expression/GSEA script. 
 
-Thank you, 
-Mike
