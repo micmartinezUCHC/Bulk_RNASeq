@@ -1,7 +1,7 @@
 # Bulk_RNASeq
-Mike Martinez M.Sc.
-Rosenberg Lab UCHC
-#------------------#
+# Mike Martinez M.Sc.
+# Rosenberg Lab UCHC
+
 
 This repository holds scripts to process bulk RNA-Sequencing data.
 
